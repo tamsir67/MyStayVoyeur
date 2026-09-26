@@ -1,0 +1,101 @@
+[
+  {
+    "id": "msg_1790447596878_8y1g",
+    "bookingId": "inq_lst_1790428584510_usr_admin",
+    "senderId": "usr_admin",
+    "senderName": "Laurent Moreau (Équipe MyStay)",
+    "senderRole": "admin",
+    "content": "je peux avoir votre contact telephonique",
+    "timestamp": "2026-09-26T18:33:16.878Z"
+  },
+  {
+    "id": "msg_1790447522913_k2j0",
+    "bookingId": "res_418933",
+    "senderId": "usr_admin",
+    "senderName": "Laurent Moreau (Équipe MyStay)",
+    "senderRole": "admin",
+    "content": "bonjour",
+    "timestamp": "2026-09-26T18:32:02.913Z"
+  },
+  {
+    "id": "msg_1790451781857_f31i",
+    "bookingId": "inq_lst_1790451493260_usr_1790412322971",
+    "senderId": "usr_1790412322971",
+    "senderName": "Cheikh Camara",
+    "senderRole": "voyageur",
+    "content": "bonjour  jacques comment se passera l accueil",
+    "timestamp": "2026-09-26T19:43:01.857Z"
+  },
+  {
+    "id": "msg_1790451769425_5f7u",
+    "bookingId": "inq_lst_1790451493260_usr_1790412322971",
+    "senderId": "usr_1790412322971",
+    "senderName": "Cheikh Camara",
+    "senderRole": "voyageur",
+    "content": "Bonjour ! Nous prévoyons d'arriver vers 17h30. Est-ce que cette heure vous convient ?",
+    "timestamp": "2026-09-26T19:42:49.425Z"
+  },
+  {
+    "id": "msg_1790412505537_ylxv",
+    "bookingId": "inq_lst_1790191651302_usr_1790412322971",
+    "senderId": "usr_1790412322971",
+    "senderName": "Cheikh Camara",
+    "senderRole": "voyageur",
+    "content": "bonjour  jacques comment se passera l accueil",
+    "timestamp": "2026-09-26T14:33:36.303Z"
+  },
+  {
+    "id": "msg_test_1790024732087",
+    "bookingId": "",
+    "senderId": "",
+    "senderName": "Ba Tamsir",
+    "senderRole": "voyageur",
+    "content": "Bonjour, j ai une question sur l arrivée autonome !",
+    "timestamp": "2026-09-26T14:33:36.303Z"
+  },
+  {
+    "id": "msg_1790194274212_8ikl",
+    "bookingId": "res_621370",
+    "senderId": "92607daa-f8ca-4774-a8b2-e993c2afd9b8",
+    "senderName": "Jacques Valmi",
+    "senderRole": "hote",
+    "content": "Bonjour ! Bienvenue au gîte. Accueil possible dès 16h00. Code boîte à clés : MYSTAY-4471.",
+    "timestamp": "2026-09-26T08:36:05.633Z"
+  },
+  {
+    "id": "msg_test_bkg_1790024813710",
+    "bookingId": "res_2026_0891",
+    "senderId": "",
+    "senderName": "Ba Tamsir",
+    "senderRole": "voyageur",
+    "content": "Bonjour Antoine, nous arriverons vers 18h !",
+    "timestamp": "2026-09-26T14:33:36.303Z"
+  },
+  {
+    "id": "msg_1790193067428_j0ig",
+    "bookingId": "res_205709",
+    "senderId": "e82143aa-87e4-4738-a16b-9a718687ee45",
+    "senderName": "Laurent Moreau (Équipe MyStay)",
+    "senderRole": "admin",
+    "content": "je viendrai vous chercher",
+    "timestamp": "2026-09-26T14:33:36.303Z"
+  },
+  {
+    "id": "msg_1",
+    "bookingId": "res_2026_0942",
+    "senderId": "",
+    "senderName": "Ba Tamsir",
+    "senderRole": "voyageur",
+    "content": "Bonjour Hélène, nous arriverons vers 17h le 15 octobre. Pouvez-vous nous confirmer s’il est possible de récupérer les vélos électriques dès le lendemain matin ?",
+    "timestamp": "2026-09-26T14:33:36.303Z"
+  },
+  {
+    "id": "msg_2",
+    "bookingId": "res_2026_0942",
+    "senderId": "",
+    "senderName": "Hélène Duchêne",
+    "senderRole": "hote",
+    "content": "Bonjour Ba Tamsir ! Absolument, les 2 VAE seront chargés et réglés pour vous avec les casques et cartes des sentiers du Morvan. À très vite !",
+    "timestamp": "2026-09-14T10:05:00.000Z"
+  }
+]

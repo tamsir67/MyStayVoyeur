@@ -1,0 +1,56 @@
+[
+  {
+    "id": "rev_test_1790023819305",
+    "bookingId": "",
+    "listingId": "",
+    "travelerId": "",
+    "travelerName": "Ba Tamsir",
+    "rating": 5,
+    "comment": "Séjour inoubliable au cœur des Cévennes.",
+    "createdAt": "2026-09-21T20:50:19.387Z",
+    "status": "valid",
+    "isFlagged": false
+  },
+  {
+    "id": "rev_1",
+    "bookingId": "res_2026_0891",
+    "listingId": "lst_1",
+    "travelerId": "",
+    "travelerName": "Ba Tamsir",
+    "travelerAvatar": "/ba_tamsir_avatar.jpg",
+    "rating": 5,
+    "subRatings": {
+      "cleanliness": 5,
+      "authenticity": 5,
+      "ecoResponsibility": 5,
+      "hostWelcome": 5
+    },
+    "comment": "Un séjour inoubliable au Moulin des Cévennes !",
+    "createdAt": "2026-09-21T20:51:14.724Z",
+    "hostReply": {
+      "text": "Merci infiniment Ba Tamsir pour votre sensibilité à la préservation de notre vallée cévenole. Ce fut un plaisir de partager notre potager avec vous !",
+      "repliedAt": "2026-08-17T14:00:00Z"
+    },
+    "status": "valid",
+    "isFlagged": false
+  },
+  {
+    "id": "rev_2",
+    "bookingId": "",
+    "listingId": "lst_2",
+    "travelerId": "",
+    "travelerName": "Marc Lefebvre",
+    "travelerAvatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=300&q=80",
+    "rating": 5,
+    "subRatings": {
+      "cleanliness": 5,
+      "authenticity": 5,
+      "ecoResponsibility": 5,
+      "hostWelcome": 4.5
+    },
+    "comment": "Cabane exceptionnelle.",
+    "createdAt": "2026-09-21T20:51:17.937Z",
+    "status": "valid",
+    "isFlagged": false
+  }
+]

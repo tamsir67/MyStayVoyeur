@@ -1,0 +1,10 @@
+{
+  "name": "MyStay - Tourisme Rural Durable & Authentique",
+  "description": "Plateforme éco-responsable de séjours ruraux authentiques avec réservation, gestion hôte, modération admin, paiement Stripe et architecture No-Code (Softr/Airtable/Make/Stripe).",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
