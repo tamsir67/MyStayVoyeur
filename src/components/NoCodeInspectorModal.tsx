@@ -5,7 +5,6 @@ import {
   CheckCircle2, Clock, Play, RefreshCw, FileText, 
   ArrowRight, ShieldCheck, Sparkles, Filter 
 } from 'lucide-react';
-import { SupabaseConnectionPanel } from './SupabaseConnectionPanel';
 
 export interface NoCodeInspectorModalProps {
   embedded?: boolean;
@@ -509,13 +508,7 @@ export const NoCodeInspectorModal: React.FC<NoCodeInspectorModalProps> = ({ embe
             </div>
           </div>
         </div>
-      )}
-
-      {/* Tab 5: Supabase Decoupled Connection Panel */}
-      {activeTab === 'supabase' && (
-        <SupabaseConnectionPanel />
-      )}
-
-    </div>
-  );
-};
+        </div>
+      );
+    );
+   
