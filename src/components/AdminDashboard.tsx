@@ -10,7 +10,6 @@ import {
   BarChart3, RefreshCw, Send, Check, SlidersHorizontal,
   FileSpreadsheet, Download, Video, Play, Image as ImageIcon, MessageSquarePlus, Lock, ExternalLink
 } from 'lucide-react';
-import { SupabaseConnectionPanel } from './SupabaseConnectionPanel';
 import { AdminCMSPanel } from './AdminCMSPanel';
 import { NoCodeInspectorModal } from './NoCodeInspectorModal';
 import { exportBookingsToCsv } from '../utils/exportBookingsCsv';
