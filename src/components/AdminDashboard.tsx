@@ -570,8 +570,7 @@ export const AdminDashboard: React.FC = () => {
             </div>
           </div>
 
-          {/* Supabase Panel */}
-          <SupabaseConnectionPanel />
+         
         </div>
       )}
 
